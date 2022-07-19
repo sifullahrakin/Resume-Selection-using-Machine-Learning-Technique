@@ -1,0 +1,2 @@
+# Resume-Selection-using-Machine-Learning-Technique
+Resume Selection Using ML is a work for selecting right resume more efficiently and accurately. For this work some libraries has been used.  For tokenization NLTK has been used, for vectorize the data CounterVectorizer has been used and for classify the data Multinomiall Naive Bayes (MNB) has been used and finally accrued 68% accuracy. More details and working process inside the documentation.
